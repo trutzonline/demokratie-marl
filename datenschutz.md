@@ -4,22 +4,49 @@ permalink: /datenschutz/
 sitemap: false
 ---
 
-<div class="hinweis" markdown="1">
-**Muss vor dem Livegang ausgefüllt werden.** Gute Nachricht vorweg: Die Seite setzt keine Cookies, nutzt kein Tracking und lädt keine Schriften oder Skripte von fremden Servern. Gehostet wird sie aber bei GitHub Pages (GitHub Inc., USA) – das muss hier erwähnt werden. Bitte den Text prüfen bzw. prüfen lassen.
-</div>
+Wir nehmen den Schutz eurer Daten ernst und halten diese Website bewusst schlank: Sie setzt **keine Cookies**, verwendet **keine Analyse- oder Tracking-Werkzeuge** und lädt **keine Inhalte von fremden Servern** (Schriften, Bilder und Skripte liegen alle auf dieser Website selbst).
 
-## Verantwortliche Stelle
+## Verantwortlicher
 
-[Name, Anschrift, E-Mail – wie im Impressum]
+Verantwortlich für die Datenverarbeitung auf dieser Website im Sinne der Datenschutz-Grundverordnung (DSGVO) ist:
 
-## Hosting
+Christian Trutz<br>
+Sprecher der Demokratie AG Marl<br>
+Von-Flotow-Str. 24<br>
+45772 Marl<br>
+E-Mail: [E-Mail-Adresse]
 
-Diese Website wird über GitHub Pages bereitgestellt, einen Dienst der GitHub Inc., 88 Colin P. Kelly Jr. Street, San Francisco, CA 94107, USA. Beim Aufruf der Seite verarbeitet GitHub technisch notwendige Daten wie Ihre IP-Adresse, um die Seite auszuliefern und die Sicherheit des Dienstes zu gewährleisten. [Rechtsgrundlage, Hinweis auf Datenübermittlung in die USA und Link zur Datenschutzerklärung von GitHub ergänzen.]
+## Hosting über GitHub Pages
+
+Diese Website wird über GitHub Pages bereitgestellt, einen Dienst der GitHub Inc., 88 Colin P. Kelly Jr. Street, San Francisco, CA 94107, USA.
+
+Wenn ihr die Website aufruft, verarbeitet GitHub technisch notwendige Daten, insbesondere eure IP-Adresse, Datum und Uhrzeit des Abrufs, die aufgerufene Seite sowie Angaben zu Browser und Betriebssystem. Das ist nötig, um die Seite auszuliefern und die Sicherheit und Stabilität des Dienstes zu gewährleisten. Rechtsgrundlage ist unser berechtigtes Interesse an einer sicheren und zuverlässigen Bereitstellung der Website (Art. 6 Abs. 1 lit. f DSGVO).
+
+Dabei können Daten in die USA übermittelt werden. GitHub ist nach dem EU-US Data Privacy Framework zertifiziert; die Übermittlung stützt sich auf den Angemessenheitsbeschluss der EU-Kommission (Art. 45 DSGVO). Weitere Informationen findet ihr in der [Datenschutzerklärung von GitHub](https://docs.github.com/de/site-policy/privacy-policies/github-general-privacy-statement).
+
+## Kontakt per E-Mail
+
+Wenn ihr uns eine E-Mail schreibt, verarbeiten wir eure Angaben (z. B. Name, E-Mail-Adresse, Inhalt der Nachricht), um euer Anliegen zu beantworten. Rechtsgrundlage ist unser berechtigtes Interesse an der Beantwortung eurer Anfrage (Art. 6 Abs. 1 lit. f DSGVO). Wir löschen die Daten, sobald sie dafür nicht mehr benötigt werden und keine gesetzlichen Aufbewahrungspflichten entgegenstehen.
 
 ## Cookies und Tracking
 
-Diese Website verwendet keine Cookies und keine Analyse- oder Tracking-Werkzeuge.
+Diese Website verwendet keine Cookies und keine Analyse-, Statistik- oder Tracking-Werkzeuge. Es werden auch keine Social-Media-Plugins eingebunden.
 
-## Ihre Rechte
+## Eure Rechte
 
-[Auskunft, Berichtigung, Löschung, Beschwerderecht bei der Aufsichtsbehörde (LDI NRW) …]
+Ihr habt gegenüber uns jederzeit das Recht auf
+
+- Auskunft über die gespeicherten Daten (Art. 15 DSGVO),
+- Berichtigung unrichtiger Daten (Art. 16 DSGVO),
+- Löschung (Art. 17 DSGVO),
+- Einschränkung der Verarbeitung (Art. 18 DSGVO),
+- Datenübertragbarkeit (Art. 20 DSGVO),
+- Widerspruch gegen die Verarbeitung (Art. 21 DSGVO).
+
+Wendet euch dafür einfach per E-Mail an uns.
+
+Außerdem habt ihr das Recht, euch bei einer Datenschutz-Aufsichtsbehörde zu beschweren. Zuständig für uns ist die [Landesbeauftragte für Datenschutz und Informationsfreiheit Nordrhein-Westfalen](https://www.ldi.nrw.de).
+
+## Stand
+
+November 2026
