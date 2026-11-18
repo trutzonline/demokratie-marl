@@ -5,7 +5,7 @@ author: Demokratie AG Marl
 
 Ab sofort findet ihr die Demokratie AG Marl auch im Netz. Hier wollen wir regelmäßig berichten, was wir planen, was wir erlebt haben und wo ihr mitmachen könnt.
 
-Demokratie lebt davon, dass Menschen sich einmischen – im Klassenzimmer, im Verein, in der Nachbarschaft und im Rathaus. Genau dafür wollen wir mit dieser Seite einen Ort schaffen.
+Demokratie lebt davon, dass Menschen sich einmischen: im Klassenzimmer, im Verein, in der Nachbarschaft und im Rathaus. Genau dafür wollen wir mit dieser Seite einen Ort schaffen.
 
 <!--more-->
 

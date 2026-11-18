@@ -1,5 +1,5 @@
 # ------------------------------------------------------------
-# Demokratie AG Marl – Website (Jekyll / GitHub Pages)
+# Demokratie AG Marl: Website (Jekyll / GitHub Pages)
 # Nach Änderungen an dieser Datei muss die Seite neu gebaut
 # werden (passiert auf GitHub automatisch beim nächsten Push).
 # ------------------------------------------------------------
@@ -7,7 +7,7 @@
 title: Demokratie AG Marl
 tagline: Demokratie ist ein Tu-Wort.
 description: >-
-  Die Demokratie AG Marl setzt sich für eine lebendige Demokratie vor Ort ein –
+  Die Demokratie AG Marl setzt sich für eine lebendige Demokratie vor Ort ein,
   mit Aktionen, Gesprächen und Projekten für alle Marlerinnen und Marler.
 lang: de
 locale: de_DE

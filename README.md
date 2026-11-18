@@ -1,6 +1,6 @@
 # demokratie-marl.de
 
-Website der **Demokratie AG Marl** – ein einfacher Blog mit Jekyll, gehostet über GitHub Pages.
+Website der **Demokratie AG Marl**: ein einfacher Blog mit Jekyll, gehostet über GitHub Pages.
 
 - Startseite: neuester Beitrag groß, ältere Beiträge als Kacheln
 - Seiten: Über uns, Impressum, Datenschutz
@@ -29,17 +29,16 @@ Website der **Demokratie AG Marl** – ein einfacher Blog mit Jekyll, gehostet �
    Rest des Artikels …
    ```
 
-3. Speichern, committen, pushen – nach ca. einer Minute ist der Artikel online.
+3. Speichern, committen, pushen. Nach ca. einer Minute ist der Artikel online.
 
 **Hinweise**
 
 - Der neueste Beitrag (nach Datum) erscheint automatisch groß auf der Startseite.
   Alles **vor** `<!--more-->` wird dort angezeigt, dazu ein Button „Ganzen Artikel lesen“.
   Ohne `<!--more-->` steht der ganze Artikel auf der Startseite.
-- In den Kacheln wird automatisch der Anfang des Textes gezeigt – oder der `teaser`, falls angegeben.
+- In den Kacheln wird automatisch der Anfang des Textes gezeigt oder, falls angegeben, der `teaser`.
 - Bilder in `assets/img/beitraege/` ablegen, am besten vorher auf ca. 1600 px Breite verkleinern.
 - Ein Artikel mit Datum in der Zukunft wird erst veröffentlicht, wenn das Datum erreicht ist und die Seite neu gebaut wird.
-- Die drei Artikel mit „Beispiel“ im Titel sind Platzhalter und können gelöscht werden.
 
 ## Aufbau
 
