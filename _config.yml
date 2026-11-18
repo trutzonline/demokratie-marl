@@ -1,0 +1,69 @@
+# ------------------------------------------------------------
+# Demokratie AG Marl – Website (Jekyll / GitHub Pages)
+# Nach Änderungen an dieser Datei muss die Seite neu gebaut
+# werden (passiert auf GitHub automatisch beim nächsten Push).
+# ------------------------------------------------------------
+
+title: Demokratie AG Marl
+tagline: Demokratie ist ein Tu-Wort.
+description: >-
+  Die Demokratie AG Marl setzt sich für eine lebendige Demokratie vor Ort ein –
+  mit Aktionen, Gesprächen und Projekten für alle Marlerinnen und Marler.
+lang: de
+locale: de_DE
+
+url: "https://demokratie-marl.de"
+baseurl: ""
+
+logo: /assets/img/logo.png
+image: /assets/img/og-image.jpg   # Vorschaubild beim Teilen (Messenger, Social Media)
+
+# Hauptnavigation
+navigation:
+  - title: Aktuelles
+    url: /
+  - title: Über uns
+    url: /ueber-uns/
+
+# Links im Fußbereich
+footer_links:
+  - title: Impressum
+    url: /impressum/
+  - title: Datenschutz
+    url: /datenschutz/
+
+# Artikel
+permalink: /:year/:month/:title/
+excerpt_separator: "<!--more-->"
+timezone: Europe/Berlin
+
+markdown: kramdown
+kramdown:
+  input: GFM
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+feed:
+  path: feed.xml
+
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: page
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - .github

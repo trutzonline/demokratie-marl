@@ -1,0 +1,17 @@
+{%- comment -%} Kachel für einen älteren Artikel. Parameter: post, color {%- endcomment -%}
+{%- assign p = include.post -%}
+<article class="card" style="--accent: var(--c-{{ include.color }})">
+  <a class="card-link" href="{{ p.url | relative_url }}">
+    {%- if p.image -%}
+      <img class="card-image" src="{{ p.image | relative_url }}" alt="" loading="lazy">
+    {%- else -%}
+      <span class="card-blob" aria-hidden="true"></span>
+    {%- endif -%}
+    <div class="card-body">
+      <p class="meta">{% include date.html date=p.date %}</p>
+      <h3 class="card-title">{{ p.title }}</h3>
+      <p class="card-teaser">{{ p.teaser | default: p.content | strip_html | truncatewords: 26, " …" }}</p>
+      <span class="more">Weiterlesen <span aria-hidden="true">→</span></span>
+    </div>
+  </a>
+</article>

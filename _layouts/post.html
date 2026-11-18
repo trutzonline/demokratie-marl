@@ -1,0 +1,24 @@
+---
+layout: default
+---
+<article class="article wrap-narrow">
+  <header class="article-header">
+    <p class="meta">
+      {% include date.html date=page.date %}
+      {%- if page.author %} · {{ page.author }}{% endif -%}
+    </p>
+    <h1 class="article-title">{{ page.title }}</h1>
+  </header>
+  {%- if page.image -%}
+    <figure class="article-image">
+      <img src="{{ page.image | relative_url }}" alt="{{ page.image_alt | default: '' }}">
+      {%- if page.image_caption %}<figcaption>{{ page.image_caption }}</figcaption>{% endif -%}
+    </figure>
+  {%- endif -%}
+  <div class="prose">
+    {{ content }}
+  </div>
+  <footer class="article-footer">
+    <a class="back" href="{{ '/' | relative_url }}"><span aria-hidden="true">←</span> Alle Beiträge</a>
+  </footer>
+</article>

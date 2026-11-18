@@ -1,0 +1,14 @@
+<footer class="site-footer">
+  <div class="wrap footer-inner">
+    <div class="footer-brand">
+      <img src="{{ '/assets/img/logo-256.png' | relative_url }}" width="40" height="40" alt="">
+      <p><strong>{{ site.title }}</strong><br>{{ site.tagline }}</p>
+    </div>
+    <nav class="footer-nav" aria-label="Rechtliches">
+      {%- for item in site.footer_links -%}
+        <a href="{{ item.url | relative_url }}">{{ item.title }}</a>
+      {%- endfor -%}
+      <a href="{{ '/feed.xml' | relative_url }}">RSS-Feed</a>
+    </nav>
+  </div>
+</footer>
