@@ -14,7 +14,7 @@ Christian Trutz<br>
 Sprecher der Demokratie AG Marl<br>
 Von-Flotow-Str. 24<br>
 45772 Marl<br>
-E-Mail: [E-Mail-Adresse]
+E-Mail: [christian@trutz.io](mailto:christian@trutz.io)
 
 ## Hosting über GitHub Pages
 

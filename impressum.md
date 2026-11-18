@@ -13,7 +13,7 @@ Von-Flotow-Str. 24<br>
 
 ## Kontakt
 
-E-Mail: [E-Mail-Adresse]
+E-Mail: [christian@trutz.io](mailto:christian@trutz.io)
 
 ## Verantwortlich für den Inhalt nach § 18 Abs. 2 MStV
 
