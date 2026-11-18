@@ -29,7 +29,9 @@ layout: default
       <div class="prose">
         {{ latest.excerpt }}
       </div>
-      {%- if latest.excerpt != latest.content -%}
+      {%- assign excerpt_text = latest.excerpt | strip -%}
+      {%- assign content_text = latest.content | strip -%}
+      {%- if excerpt_text != content_text -%}
         <a class="button" href="{{ latest.url | relative_url }}">Ganzen Artikel lesen <span aria-hidden="true">→</span></a>
       {%- endif -%}
     </div>
@@ -43,7 +45,8 @@ layout: default
   <div class="card-grid">
     {%- for post in site.posts offset: 1 -%}
       {%- assign ci = forloop.index0 | modulo: 9 -%}
-      {% include post-card.html post=post color=colors[ci] %}
+      {%- assign card_color = colors[ci] -%}
+      {% include post-card.html post=post color=card_color %}
     {%- endfor -%}
   </div>
 </section>
